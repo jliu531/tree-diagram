@@ -6,6 +6,5 @@ Usage:
 In a discord chat-box:
 !anime [anime name]
 
-Examples:
-!anime madoka magica \n
-!anime naruto
+Example:
+!anime madoka magica
